@@ -10,7 +10,7 @@
 
 Open a private security advisory via GitHub
 (Security > Report a vulnerability) on
-[JordanNewell/curt-vcon](https://github.com/JordanNewell/curt-vcon/security/advisories/new),
+[dotcurt/curt-vcon](https://github.com/dotcurt/curt-vcon/security/advisories/new),
 or email the maintainer directly if you cannot use GitHub.
 
 Please include a description, reproduction steps, and affected versions.
